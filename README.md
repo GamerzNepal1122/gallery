@@ -1,4 +1,4 @@
-# gallery.md
+
 <html>
 <head><title>My gallery</title>
 <style>
