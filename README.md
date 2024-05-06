@@ -1,6 +1,6 @@
 
 <html>
-<head><title>My gallery</title>
+<head>
 	
 <body>	    
 		<img src="Screenshot 2024-05-05 132556.png" alt="Artwork 1">
